@@ -1,0 +1,12 @@
+.box{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 80%;
+}
+
+@font-face{
+	font-family: 'frl';
+	src: url('https://fonts.google.com/specimen/Frank+Ruhl+Libre');
+}
