@@ -10,3 +10,8 @@
 	font-family: 'frl';
 	src: url('https://fonts.google.com/specimen/Frank+Ruhl+Libre');
 }
+
+a{
+	text-decoration:none;
+	color: #ffaa80;
+}
