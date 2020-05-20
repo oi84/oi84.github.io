@@ -11,7 +11,12 @@
 	src: url('https://fonts.google.com/specimen/Frank+Ruhl+Libre');
 }
 
+@font-face{
+	font-family: 'Roboto';
+	src: url('https://fonts.google.com/specimen/Roboto');
+}
+
 a{
 	text-decoration:none;
-	color: #ffaa80;
+	color:#333333;
 }
