@@ -20,3 +20,19 @@ a{
 	text-decoration:none;
 	color:#333333;
 }
+
+.text{
+	font-family: Roboto; 
+	font-size: 150%; 
+	font-weight:normal; 
+	color:#333333;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	margin-right: 20px;
+}
+
+.image{
+	width:40%;
+	float: right;
+	display: inline-block;
+}
